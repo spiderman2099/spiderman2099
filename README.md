@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - I'm the Director of Business Development & Operations at Blue Pisces Consulting, and I also help as a consultant at Cloud Posse.
 
-- I help DevOps teams manage their workloads.    
+- I help DevOps teams manage their work.    
    
 - How to reach me: andy@bluepisces.com or andy@cloudposse.com
    
